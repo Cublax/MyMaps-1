@@ -8,4 +8,3 @@ This app helps you keep track of places that matter to you, whether they’re va
 
 <img src='https://i.makeagif.com/media/12-20-2019/cFsmQF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/) and uploaded to https://makeagif.com/.
